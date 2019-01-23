@@ -45,7 +45,6 @@
         'test-getsockname.c',
         'test-handle-fileno.c',
         'test-homedir.c',
-        'test-hrtime.c',
         'test-idle.c',
         'test-idna.c',
         'test-ip6-addr.c',
