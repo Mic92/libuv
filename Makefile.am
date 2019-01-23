@@ -187,7 +187,6 @@ test_run_tests_SOURCES = test/blackhole-server.c \
                          test/test-getsockname.c \
                          test/test-handle-fileno.c \
                          test/test-homedir.c \
-                         test/test-hrtime.c \
                          test/test-idle.c \
                          test/test-idna.c \
                          test/test-ip4-addr.c \
